@@ -40,15 +40,23 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
+.site-banner .container .row .site-title .title_name{
+margin-top: -35%;
+}
+.site-banner .container .row .site-title .title_profile{
+    margin-top: -3%;
+    color: #6A1B4D;
+}
+
 
 
 /* end navigation */ 
 
 /* Banner Area */ 
 
-.site-main .site-banner {
+/* .site-main .site-banner {
     background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
-}
+} */
 
 .site-main .site-banner .site-title h3{
     padding-top: 35%;
