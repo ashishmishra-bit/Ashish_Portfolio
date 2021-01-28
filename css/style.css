@@ -98,12 +98,14 @@ margin-top: -35%;
 
 .site-main .about-area .about-title h2 > span{
     display: block;
+    /* display: inline; */
     font: normal bold 49px/ 60px var(--roboto);
-    letter-spacing: 21px;
+    letter-spacing: 10px;
+    color:#000
 }
 
 .site-main .about-area .about-title .paragraph > p{
-    padding: .4rem 0;
+    padding: .4rem 0;    
 }
 
 /* End About Area */ 
